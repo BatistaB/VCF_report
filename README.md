@@ -52,6 +52,10 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
 6. Entre no link local gerado e será possível filtrar os dados por profundidade (DP) e frequência TOPMED.
 
 
+![Imagem do WhatsApp de 2024-09-13 à(s) 20 35 29_01399a6a](https://github.com/user-attachments/assets/02fcd685-40db-4da1-b7ef-e3f7d1d0cb7b)
+foto da aplicação
+
+
 ## Considerações finais
 
 Foi muito interessante desenvolver este desafio, pois identifiquei vários pontos e oportunidades de melhoria, como:
@@ -66,4 +70,7 @@ Obrigado pelo seu tempo,
 
 
 Bruno Batista.
+
+
+
 
