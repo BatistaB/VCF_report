@@ -10,6 +10,13 @@ Recentemente, me deparei com este desafio e decidi encará-lo. Para um programad
 
 Dito isso, vamos à apresentação do funcionamento deste aplicativo!
 
+## O desafio
+
+• Implementar um pipeline de bioinformática, utilizando preferencialmente o snakemake, que realize, a partir do arquivo VCF fornecido em anexo, as anotações das variantes com gene, dbSNP id e frequência de pelo menos um banco de dados populacional.
+
+• O resultado deverá ser entregue em uma API e uma interface interativa web (flask) que interaja com a API para filtrar variantes por frequência e profundidade (DP).
+
+
 ## Instruções de uso
 
 1. Para usar o aplicativo, copie este repositório no seu computador com o comando:
@@ -43,6 +50,7 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
     ```
 
 6. Entre no link local gerado e será possível filtrar os dados por profundidade (DP) e frequência TOPMED.
+
 
 ## Considerações finais
 
