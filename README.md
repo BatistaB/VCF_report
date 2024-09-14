@@ -16,6 +16,8 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
 
 • O resultado deverá ser entregue em uma API e uma interface interativa web (flask) que interaja com a API para filtrar variantes por frequência e profundidade (DP).
 
+:sob: Eu não consegui criar um arquivo Dockfile :sob: 
+Mas resolvi tentar entregar a aplicação mesmo assim:
 
 ## Instruções de uso
 
