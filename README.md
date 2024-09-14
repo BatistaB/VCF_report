@@ -19,6 +19,8 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
 :sob: Eu não consegui criar um arquivo Dockfile :sob: 
 Mas resolvi tentar entregar a aplicação mesmo assim:
 
+A lógica geral do aplicativo está descrita em `explicação.ipynb`!
+
 ## Instruções de uso
 
 1. Para usar o aplicativo, copie este repositório no seu computador com o comando:
