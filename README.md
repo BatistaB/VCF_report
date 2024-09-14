@@ -53,7 +53,7 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
 
 
 ![Imagem do WhatsApp de 2024-09-13 à(s) 20 35 29_01399a6a](https://github.com/user-attachments/assets/02fcd685-40db-4da1-b7ef-e3f7d1d0cb7b)
-foto da aplicação
+
 
 
 ## Considerações finais
