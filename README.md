@@ -31,7 +31,7 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
     pip install -r requirements.txt
     ```
 
-3. A próxima etapa é baixar o banco de dados de SNPs para fazer a comparação. Eu utilizei o `common_all_20180418.vcf.gz`. O arquivo precisa ser descompactado na pasta `DATA` (ele possui cerca de 9 GB):
+3. A próxima etapa é baixar o banco de dados de SNPs para fazer a comparação. Eu utilizei o `common_all_20180418.vcf.gz`. O arquivo precisa ser descompactado na pasta `/data` (ele possui cerca de 9 GB):
 
     ```bash
     wget https://ftp.ncbi.nih.gov/snp/organisms/human_9606/VCF/common_all_20180418.vcf.gz
@@ -57,9 +57,10 @@ Dito isso, vamos à apresentação do funcionamento deste aplicativo!
 Foi muito interessante desenvolver este desafio, pois identifiquei vários pontos e oportunidades de melhoria, como:
 
 - Aprender Docker e como desenvolver uma aplicação completa;
-- Descobrir como trabalhar com grandes bancos de dados: seria melhor usar uma API ou armazenar esses dados de forma mais eficiente, ocupando menos memória?
-- Compreender melhor os bancos de dados dbSNP. Passei bastante tempo pensando em como acessá-los diretamente, mas não consegui integrar da maneira que desejava.
-- Talvez o apresentado aqui não seja suficiente para o desafio proposto, mas foi legal tetar entregar a solução para este desafio.
+- Descobrir como trabalhar com grandes bancos de dados: seria melhor usar uma API ou armazenar esses dados de forma mais eficiente?;
+- Compreender melhor os bancos de dados dbSNP. Passei bastante tempo pensando em como acessá-los diretamente, mas não consegui integrar da maneira que desejava;
+- Talvez o apresentado aqui não seja suficiente para o desafio proposto, mas foi legal tentar entregar uma solução. Por isso, escolhi a frequencia TOPMED, que era fornecida dentro do banco de dados de referência que eu estava utilizando
+
 
 Obrigado pelo seu tempo,
 
